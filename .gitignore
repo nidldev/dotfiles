@@ -1,0 +1,9 @@
+*
+
+!.gitignore
+!.README
+
+!./.scripts
+!./.config
+!.vimrc
+!.bashrc
