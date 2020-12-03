@@ -3,7 +3,7 @@
 !.gitignore
 !.README
 
-!./.scripts
-!./.config
+!.scripts
+!.config
 !.vimrc
 !.bashrc
